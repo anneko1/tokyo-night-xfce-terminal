@@ -26,4 +26,4 @@ sh install_night.sh
 <br>
 <br>
 <br>
-<p align="center">&copy; 2023 HexyHack</p>
+<p align="center">&copy; 2023 Anneko1</p>
